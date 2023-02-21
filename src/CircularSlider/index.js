@@ -38,7 +38,6 @@ const styles = ({
         position: 'relative',
         display: 'inline-block',
         opacity: 0,
-        transition: 'opacity 1s ease-in'
     },
 
     mounted: {
